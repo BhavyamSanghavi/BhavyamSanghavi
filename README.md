@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Bhavyam Sanghavi</h1>
 <h3 align="center">Passionate about DSA and Software Development</h3>
 
-<img src="https://raw.githubusercontent.com/BhavyamSanghavi/BhavyamSanghavi/output/snake.svg" alt="Snake animation" />
+
 
 
 - Project 1 [Virtual Meeting Platform](https://meeting-platform-bhavyam.vercel.app/sign-in)
