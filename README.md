@@ -75,7 +75,7 @@
 
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/BhavyamSanghavi/count.svg?"  />
+  <img src="https://komarev.com/ghpvc/?username=BhavyamSanghavi&color=red"  />
 </div>
 <p>&nbsp;</p>
 
