@@ -68,14 +68,14 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h1 align="center">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=BhavyamSanghavi&theme=react-dark"/>
 
-### Profile Visitors
+
  
 </div>
 
 
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=BhavyamSanghavi&color=red"  />
+  <img src="https://komarev.com/ghpvc/?username=BhavyamSanghavi&color=red" width="300" />
 </div>
 <p>&nbsp;</p>
 
